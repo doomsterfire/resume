@@ -1,25 +1,30 @@
-- title: Front End Web Developer
-  org: TrackitEz
-  startTime: 01-2018
-  endTime: 06-2018
-  desc: Developing cloudbased HIPAA, OSHA, and HR compliance software. 
-- title: Software Developer
-  org: Ordyx
-  startTime: 08-2017
-  endTime: 11-2017
-  desc: Designed and implemented an Android application for managing employees, orders, and general restaurant tasks via REST endpoints for a Point of Sale company.
-- title: Web Developer
-  org: ThinkRite, Inc
-  startTime: 11-2016 
-  endTime: 06-2017
-  desc: Maintained and developed a Java Spring based profile website, and refactored the current front end to be responsive.
-- title: TechStar Intern
-  org: Ultimate Software
+- title: Customer Success Manager
+  org: Examsoft
+  startTime: 10-2017
+  endTime: Current
+  desc: CSM charged with managing accounts consisting of several nursing, law, medical and professional certification colleges and universities. 
+- title: Entertainer/Community Manager
+  org: Twitch.tv
   startTime: 01-2016
-  endTime: 04-2016
-  desc: Coordinated with developers to write and test development tools for six projects through boundary testing, integration testing, unit testing, and race conditions.
-- title: Independent Consulting
-  org: Self Employed part time
-  startTime: 2012
-  endTime: Present
-  desc: Developed various web and C# applications for various small businesses which are covered under NDA, as well as doing blackbox testing for said companies. 
+  endTime: Current
+  desc: Affiliated internet personality, community manager and social media content creator.
+- title: eCommerce Technician
+  org: STORIS
+  startTime: 07-2016
+  endTime: 10-2017
+  desc: Tier 3 web technician tasked with supporting and upgrading various retail software.
+- title: Customer Success Manager
+  org: redilearning
+  startTime: 01-2015
+  endTime: 11-2015
+  desc: Customer facing technician of the client success team responsible for a learning management system.
+- title: Tier 1 Support Analyst
+  org: Performance Matters
+  startTime: 02-2013
+  endTime: 02-2014
+  desc: Supported learning management systems focused on assessment at both district and school levels. 
+- title: President
+  org: Orlandooom Promotions
+  startTime: 01-2011
+  endTime: 04-2014
+  desc: Concert promoter and social media marketer for artists performing in Orlando, Florida. 

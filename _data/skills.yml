@@ -1,62 +1,46 @@
-- title: Languages
+- title: Technical
   items:
-    - name: Ruby
+    - name: Salesforce
+      level: 4
+    - name: Live Audio-Video
       level: 3
-    - name: Java
+    - name: PC Hardware
+      level: 3
+    - name: Windows Server Administration
       level: 2
-    - name: Javascript
-      level: 3
-    - name: Python
-      level: 3
-    - name: PHP
+    - name: AWS Administration
       level: 2
-    - name: C#
-      level: 3
-    - name: Elixir
-      level: 0
-- title: Frameworks (Web)
+    - name: HTML/CSS
+      level: 2
+    - name: AIX/UNIX
+      level: 2
+    - name: SOAP/REST
+      level: 2
+- title: Marketing
   items:
-    - name: Django
+    - name: Social Media
+      level: 4
+    - name: E-Mail Marketing
       level: 3
-    - name: Flask
+    - name: Hubspot
       level: 3
-    - name: Rails
-      level: 3
-    - name: Phoenix
-      level: 1
-    - name: Spring
+    - name: Google Analytics
       level: 2
-    - name: ASP.NET
-      level: 3
-    - name: Vue.js
-      level: 2
-    - name: anime.js
-      level: 0
-    - name: Bootstrap
-      level: 3
-    - name: Stylus
-      level: 2
-    - name: Sass
-      level: 3
-    - name: less
-      level: 0
-- title: Frameworks (Testing)
+- title: Customer / Sales
   items:
-    - name: Selenium
-      level: 2
-    - name: nUnit
-      level: 2
-    - name: jUnit
-      level: 2
-- title: Testing
+    - name: Customer Success
+      level: 4
+    - name: SaaS Sales
+      level: 3
+    - name: Gainsight
+      level: 3
+- title: Writing
   items:
-    - name: TDD 
-      level: 3
-    - name: BDD
-      level: 3
-    - name: Unit Testing
-      level: 2
-    - name: Integration Testing
-      level: 1
-    - name: Automation
-      level: 3
+    - name: Blogging 
+      level: 4
+    - name: Resume Writing
+      level: 4
+    - name: Twitter
+      level: 4
+    - name: E-mail Technical Support
+      level: 4
